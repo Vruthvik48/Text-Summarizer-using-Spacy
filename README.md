@@ -34,15 +34,15 @@ The Text Summarizer is a web-based application that allows users to input a piec
 
   (Versions: Flask==2.0.1; spacy==3.1.2)
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests.
 
-##License
+## License
 
 This project is licensed under the MIT License.
 
-##Contact
+## Contact
 
 For inquiries and collaboration:
 
